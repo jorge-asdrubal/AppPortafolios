@@ -176,5 +176,5 @@ class ResetPasswordController extends Controller
     }
 
 
-    protected $redirectTo = '/portafolio';
+    protected $redirectTo = '/proyectos';
 }

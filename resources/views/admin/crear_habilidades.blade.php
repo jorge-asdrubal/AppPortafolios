@@ -23,7 +23,7 @@
                     @enderror
                 </div>
                 <hr>
-                <input type="submit" name="registrar_habilidad" class="btn btn-primary btn-block" value="Registrar tipo de proyecto">
+                <input type="submit" name="registrar_habilidad" class="btn btn-primary btn-block" value="Registrar habilidad">
             </form>
         </div>
     </div>

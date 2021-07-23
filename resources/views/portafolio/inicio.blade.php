@@ -94,6 +94,7 @@
 								<ul class="icons alt">
 									<li><a target="_blank" href="https://www.youtube.com/channel/UC6b69TqRqQsc6w9Zn4hoXiA" class="icon brands fa-youtube"><span class="label">Youtube</span></a></li>
 							        <li><a target="_blank" href="https://github.com/jorge-asdrubal" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+							        <li><a target="_blank" href="https://www.linkedin.com/in/jorge-asdrubal-ortega-gonzalez-b1207b212/" class="icon brands fa-linkedin"><span class="label">Linkedin</span></a></li>
 								</ul>
 							</section>
 						</section>

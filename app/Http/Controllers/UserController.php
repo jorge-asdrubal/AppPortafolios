@@ -101,7 +101,7 @@ class UserController extends Controller
                 }
             }
             DB::commit();
-            return back()->withSuccess('Se creo con éxito.');
+            return back()->withSuccess('Se guardaron los cambios.');
         } catch (Exception $e) {
             DB::rollBack();
             return back()->withErrors('Ocurrio un error inesperado: '.$e->getMessage());
